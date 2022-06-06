@@ -1,0 +1,240 @@
+elif a >= b >= c >= d >= e:
+    last_ = 'abcde'
+elif a >= b >= c >= e >= d:
+    last_ = 'abced'
+elif a >= b >= d >= c >= e:
+    last_ = 'abdce'
+elif a >= b >= d >= e >= c:
+    last_ = 'abdec'
+elif a >= b >= e >= c >= d:
+    last_ = 'abecd'
+elif a >= b >= e >= d >= c:
+    last_ = 'abedc'
+elif a >= c >= b >= d >= e:
+    last_ = 'acbde'
+elif a >= c >= b >= e >= d:
+    last_ = 'acbed'
+elif a >= c >= d >= b >= e:
+    last_ = 'acdbe'
+elif a >= c >= d >= e >= b:
+    last_ = 'acdeb'
+elif a >= c >= e >= b >= d:
+    last_ = 'acebd'
+elif a >= c >= e >= d >= b:
+    last_ = 'acedb'
+elif a >= d >= b >= c >= e:
+    last_ = 'adbce'
+elif a >= d >= b >= e >= c:
+    last_ = 'adbec'
+elif a >= d >= c >= b >= e:
+    last_ = 'adcbe'
+elif a >= d >= c >= e >= b:
+    last_ = 'adceb'
+elif a >= d >= e >= b >= c:
+    last_ = 'adebc'
+elif a >= d >= e >= c >= b:
+    last_ = 'adecb'
+elif a >= e >= b >= c >= d:
+    last_ = 'aebcd'
+elif a >= e >= b >= d >= c:
+    last_ = 'aebdc'
+elif a >= e >= c >= b >= d:
+    last_ = 'aecbd'
+elif a >= e >= c >= d >= b:
+    last_ = 'aecdb'
+elif a >= e >= d >= b >= c:
+    last_ = 'aedbc'
+elif a >= e >= d >= c >= b:
+    last_ = 'aedcb'
+elif b >= a >= c >= d >= e:
+    last_ = 'bacde'
+elif b >= a >= c >= e >= d:
+    last_ = 'baced'
+elif b >= a >= d >= c >= e:
+    last_ = 'badce'
+elif b >= a >= d >= e >= c:
+    last_ = 'badec'
+elif b >= a >= e >= c >= d:
+    last_ = 'baecd'
+elif b >= a >= e >= d >= c:
+    last_ = 'baedc'
+elif b >= c >= a >= d >= e:
+    last_ = 'bcade'
+elif b >= c >= a >= e >= d:
+    last_ = 'bcaed'
+elif b >= c >= d >= a >= e:
+    last_ = 'bcdae'
+elif b >= c >= d >= e >= a:
+    last_ = 'bcdea'
+elif b >= c >= e >= a >= d:
+    last_ = 'bcead'
+elif b >= c >= e >= d >= a:
+    last_ = 'bceda'
+elif b >= d >= a >= c >= e:
+    last_ = 'bdace'
+elif b >= d >= a >= e >= c:
+    last_ = 'bdaec'
+elif b >= d >= c >= a >= e:
+    last_ = 'bdcae'
+elif b >= d >= c >= e >= a:
+    last_ = 'bdcea'
+elif b >= d >= e >= a >= c:
+    last_ = 'bdeac'
+elif b >= d >= e >= c >= a:
+    last_ = 'bdeca'
+elif b >= e >= a >= c >= d:
+    last_ = 'beacd'
+elif b >= e >= a >= d >= c:
+    last_ = 'beadc'
+elif b >= e >= c >= a >= d:
+    last_ = 'becad'
+elif b >= e >= c >= d >= a:
+    last_ = 'becda'
+elif b >= e >= d >= a >= c:
+    last_ = 'bedac'
+elif b >= e >= d >= c >= a:
+    last_ = 'bedca'
+elif c >= a >= b >= d >= e:
+    last_ = 'cabde'
+elif c >= a >= b >= e >= d:
+    last_ = 'cabed'
+elif c >= a >= d >= b >= e:
+    last_ = 'cadbe'
+elif c >= a >= d >= e >= b:
+    last_ = 'cadeb'
+elif c >= a >= e >= b >= d:
+    last_ = 'caebd'
+elif c >= a >= e >= d >= b:
+    last_ = 'caedb'
+elif c >= b >= a >= d >= e:
+    last_ = 'cbade'
+elif c >= b >= a >= e >= d:
+    last_ = 'cbaed'
+elif c >= b >= d >= a >= e:
+    last_ = 'cbdae'
+elif c >= b >= d >= e >= a:
+    last_ = 'cbdea'
+elif c >= b >= e >= a >= d:
+    last_ = 'cbead'
+elif c >= b >= e >= d >= a:
+    last_ = 'cbeda'
+elif c >= d >= a >= b >= e:
+    last_ = 'cdabe'
+elif c >= d >= a >= e >= b:
+    last_ = 'cdaeb'
+elif c >= d >= b >= a >= e:
+    last_ = 'cdbae'
+elif c >= d >= b >= e >= a:
+    last_ = 'cdbea'
+elif c >= d >= e >= a >= b:
+    last_ = 'cdeab'
+elif c >= d >= e >= b >= a:
+    last_ = 'cdeba'
+elif c >= e >= a >= b >= d:
+    last_ = 'ceabd'
+elif c >= e >= a >= d >= b:
+    last_ = 'ceadb'
+elif c >= e >= b >= a >= d:
+    last_ = 'cebad'
+elif c >= e >= b >= d >= a:
+    last_ = 'cebda'
+elif c >= e >= d >= a >= b:
+    last_ = 'cedab'
+elif c >= e >= d >= b >= a:
+    last_ = 'cedba'
+elif d >= a >= b >= c >= e:
+    last_ = 'dabce'
+elif d >= a >= b >= e >= c:
+    last_ = 'dabec'
+elif d >= a >= c >= b >= e:
+    last_ = 'dacbe'
+elif d >= a >= c >= e >= b:
+    last_ = 'daceb'
+elif d >= a >= e >= b >= c:
+    last_ = 'daebc'
+elif d >= a >= e >= c >= b:
+    last_ = 'daecb'
+elif d >= b >= a >= c >= e:
+    last_ = 'dbace'
+elif d >= b >= a >= e >= c:
+    last_ = 'dbaec'
+elif d >= b >= c >= a >= e:
+    last_ = 'dbcae'
+elif d >= b >= c >= e >= a:
+    last_ = 'dbcea'
+elif d >= b >= e >= a >= c:
+    last_ = 'dbeac'
+elif d >= b >= e >= c >= a:
+    last_ = 'dbeca'
+elif d >= c >= a >= b >= e:
+    last_ = 'dcabe'
+elif d >= c >= a >= e >= b:
+    last_ = 'dcaeb'
+elif d >= c >= b >= a >= e:
+    last_ = 'dcbae'
+elif d >= c >= b >= e >= a:
+    last_ = 'dcbea'
+elif d >= c >= e >= a >= b:
+    last_ = 'dceab'
+elif d >= c >= e >= b >= a:
+    last_ = 'dceba'
+elif d >= e >= a >= b >= c:
+    last_ = 'deabc'
+elif d >= e >= a >= c >= b:
+    last_ = 'deacb'
+elif d >= e >= b >= a >= c:
+    last_ = 'debac'
+elif d >= e >= b >= c >= a:
+    last_ = 'debca'
+elif d >= e >= c >= a >= b:
+    last_ = 'decab'
+elif d >= e >= c >= b >= a:
+    last_ = 'decba'
+elif e >= a >= b >= c >= d:
+    last_ = 'eabcd'
+elif e >= a >= b >= d >= c:
+    last_ = 'eabdc'
+elif e >= a >= c >= b >= d:
+    last_ = 'eacbd'
+elif e >= a >= c >= d >= b:
+    last_ = 'eacdb'
+elif e >= a >= d >= b >= c:
+    last_ = 'eadbc'
+elif e >= a >= d >= c >= b:
+    last_ = 'eadcb'
+elif e >= b >= a >= c >= d:
+    last_ = 'ebacd'
+elif e >= b >= a >= d >= c:
+    last_ = 'ebadc'
+elif e >= b >= c >= a >= d:
+    last_ = 'ebcad'
+elif e >= b >= c >= d >= a:
+    last_ = 'ebcda'
+elif e >= b >= d >= a >= c:
+    last_ = 'ebdac'
+elif e >= b >= d >= c >= a:
+    last_ = 'ebdca'
+elif e >= c >= a >= b >= d:
+    last_ = 'ecabd'
+elif e >= c >= a >= d >= b:
+    last_ = 'ecadb'
+elif e >= c >= b >= a >= d:
+    last_ = 'ecbad'
+elif e >= c >= b >= d >= a:
+    last_ = 'ecbda'
+elif e >= c >= d >= a >= b:
+    last_ = 'ecdab'
+elif e >= c >= d >= b >= a:
+    last_ = 'ecdba'
+elif e >= d >= a >= b >= c:
+    last_ = 'edabc'
+elif e >= d >= a >= c >= b:
+    last_ = 'edacb'
+elif e >= d >= b >= a >= c:
+    last_ = 'edbac'
+elif e >= d >= b >= c >= a:
+    last_ = 'edbca'
+elif e >= d >= c >= a >= b:
+    last_ = 'edcab'
+elif e >= d >= c >= b >= a:
+    last_ = 'edcba'
